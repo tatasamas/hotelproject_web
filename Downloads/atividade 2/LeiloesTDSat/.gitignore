@@ -1,0 +1,13 @@
+# Ignorar todos os arquivos e diretórios na raiz do projeto
+/*
+
+# Exceto os diretórios e arquivos do projeto
+!/nbproject/
+!/src/
+!/build.xml
+!/manifest.mf
+!/lib/
+
+# Ignorar arquivos específicos dentro dos diretórios permitidos
+nbproject/private/
+nbproject/Makefile-*.mk

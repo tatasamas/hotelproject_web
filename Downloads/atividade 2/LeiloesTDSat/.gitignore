@@ -10,7 +10,6 @@
 
 # Ignorar arquivos específicos dentro dos diretórios permitidos
 nbproject/private/
-nbproject/Makefile-*.mk
 
 # Ignorar arquivos fora do diretório do projeto
 ../../../*
